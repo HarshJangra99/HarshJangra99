@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Harsh 👋
 
-<!--
-**HarshJangra99/HarshJangra99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BCA student at Jagannath University, Bahadurgarh, passionate about Web Development and Frontend technologies.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, JavaScript
+- Tailwind, Bootstrap
+- Git & GitHub
+- Figma & Canva
+
+## 📫 Contact Me
+
+- Email: harshjangra021@example.com  
+- LinkedIn: [linkedin.com/in/harshjangra](https://linkedin.com/in/harshjangra)  
+- GitHub: [github.com/HarshJangra99](https://github.com/HarshJangra99)
+- 
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
